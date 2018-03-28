@@ -1,0 +1,7 @@
+## customer books a ride
+## searching for drivers
+## drivers not available in area
+## exponential back off and again searching
+## driver assigned
+## driver went offline
+## unable to fetch drivers from driver service ( 3 retries failed )
